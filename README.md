@@ -1,5 +1,5 @@
 # bookcre
-<h4>2022 성신여대 소프트웨어경진대회 장려상 수장작</h4>
+<h4>2022 성신여대 소프트웨어경진대회 동상 수장작</h4>
 
 <p align="center">
   <img src="https://github.com/Im-suhyeon/bookcre/assets/100345983/33a1cf50-680f-45d5-8efc-c001db2dbd96">
