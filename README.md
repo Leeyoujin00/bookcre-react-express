@@ -1,6 +1,6 @@
 # bookcre
 <h4>2022 성신여대 소프트웨어경진대회 동상 수상작</h4>
-<h2>팀장: 이유진  팀원: 임수현, 박서현, 이지현</h2>
+<h5>팀장: 이유진  팀원: 임수현, 박서현, 이지현</h5>
 
 <p align="center">
   <img src="https://github.com/Im-suhyeon/bookcre/assets/100345983/33a1cf50-680f-45d5-8efc-c001db2dbd96">
